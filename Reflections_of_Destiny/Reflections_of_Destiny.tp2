@@ -58,6 +58,12 @@ LANGUAGE
   ~english~
   ~Reflections_of_Destiny/lang/english/setup.tra~
 
+LANGUAGE
+  ~French~
+  ~french~
+  ~Reflections_of_Destiny/lang/french/setup.tra~
+  ~Reflections_of_Destiny/lang/english/setup.tra~
+
 
 //___________________________________________________________________________________
 //

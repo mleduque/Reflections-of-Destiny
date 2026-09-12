@@ -1,0 +1,91 @@
+@1   = ~ignore le componsant~
+@3   = ~Le composant "Le donjon de Korlaz se trouve dans BG1" de EndlessBG1 doit etre desinstalle pour installer celui-ci.~
+@4   = ~Le composant "Imoen remains in the group in Korlasz' dungeon" de Imoen4Ever doit etre desinstalle pour installer celui-ci.~
+@5   = ~Ce composant doit etre installe avant  EET_End.~
+@6   = ~...~
+@7   = ~Ce composant ne peut etre installe avec le composant #0 de Another Fine Hell. Il faut choisir l'un ou l'autre.~
+//
+//
+@100  = ~Reflets du destin BG1 : Le Futur est present~
+@110  = ~Reflets du destin BG1 : L'Eclat de miroir~
+// désactivé
+@150  = ~Reflets du destin BG1 : BP-in-BG~
+@200  = ~Reflets du destin BG1 : Recrivons l'histoire~
+@220  = ~Reflets du destin BG1 : Realisme dans la magie~
+@230  = ~Reflets du destin BG1 : Rien d'autre a craindre que le freyeur~
+@240  = ~Reflets du destin BG1 : Aux portes de la mort~
+// désactivé
+@260  = ~Reflets du destin BG1 : Excedent de penurie~
+// désactivé
+@290  = ~Reflets du destin BG1 : Une histoire de clones (ALPHA)~
+// désactivé
+@300  = ~Reflections of Destiny BG2: something something fixing BG2 plot~
+// désactivé
+@310  = ~Reflets du destin BG1 : Imoen est stone, par Jastey~
+// désactivé
+@320  = ~Reflets du destin BG1 : Imoen peut mourir, par Jastey~
+@330  = ~Reflets du destin BG1 : Ou que tu ailles, tu t'y trouveras~
+// désactivé
+@400  = ~Reflections of Destiny TOB: something something fixing ToB plot~
+//
+
+// #110 Mirror Shard
+//
+@11001  = ~Éclat de miroir~
+@11002  = ~Éclat de miroir
+
+Un éclat de l'immensément puissant Miroir d'opposition, désormais brisé. Même ce petit éclat contient encore une partir de la magie de l'objet. S'il est montré à une créature et qu'il capture son image, il peut créer une copie de la créature qui est loyale au porteur de l'éclat. L'éclat est fragile et semble susceptible de se briser s'il est utilise plus d'une ou deux fois.
+~
+
+// #220 Magical Realism
+//
+// from #37502
+@22011 = ~Vous parlez de vos deux cents soldats ? Eh bien, mes huit cents hommes, pardi.~ [BD37502]
+
+// #230 Nothing to fear
+//
+@23001 = ~Pardonnez-nous pour le dérangement, <PRO_LADYLORD>. Mon jeune collègue semble avoir des difficultés à gérer le stress de la situation. Je ne sais même pas s'il arrive à fermer l'œeil. C'est vrai que la situation semble difficile.. mais elle n'est pas aussi désespérée qu'il le pense, hein ? À vrai dire, je commence à douter de moi-même.~ // thirri
+@23002 = ~Pas de souci. Je suis ici pour aider. Que voulez-vous dire par « avoir des difficultés » ?'~
+@23003 = ~Stress ? Vous êtes entourés de murrailles solides ! Attednez un peu d'avoir les monstres juste en face de vous, vous verrez ce que c'est que le stress !~
+@23004 = ~~
+@23005 = ~L'eau... il ne faut pas... l'eau...~ // elandro initial
+@23006 = ~L'eau ? Vous parlez de la rivière ? Qu'est ce qu'elle a, l'eau ?~
+@23007 = ~De quoi parlez-vous ? Vous avez l'air un peu délirant.~
+@23008 = ~Il marche dans tous les sens, l'air terrifié, jusqu'à en paraitre fou. Et puis il craque et s'en va vers les limites du fort, là-bas, près de l'eau. Son comportement me fascinerait s'il ne me faisait pas pitié. J'ai essayé de l'aider à retrouver son calme, mais c'est difficile. Et, de temps en temps, son angoisse a l'air de rendre les autres plus anxieux, eux aussi~
+@23009 = ~Oh, hm, pardon. j'ai laissé mes pensées divaguer. J'ai été... J'ai été tellement effrayé, ces temps-ci, que j'ai eu du mal à rester concentré. Je veux seulement partir d'ici ! L'eau me met mal à l'aise. Même d'ici, elle semble m'attirer vers elle !~
+@23010 = ~Ce n'est pas une bonne idée. Peut être que vous devriez venir dans le fort avec moi. Vous dervrizz vous tenir à l'écart de l'eau, j'ai entendu dire que l'eau était empoisonnée.~
+@23011 = ~J'ai voulu traverser rapidement la rivière, je n'avais prévu qu'un bref arrêt à Fort-du-Pont, avant de déguerpir le plus vite possible. Mais ces satanés croisés sont arrivés et depuis nous somme coincés !~
+@23012 = ~Je ne suis qu'un voyageur ! Tout ce que je veux c'est partir d'ici ! Mais les croisés font comme si nous étions leurs eenemis, ils vont nous massacrer ! Quand je ferme les yeux, c'est tout ce que je vois, notre massacre !~
+@23013 = ~S'il vous plait, restez calme. Paniquer n'aidera personne. Je compte bien m'assurer que les croisés ne feront de mal à personne. Nous allons régler cette situation et vous pourrez suivre votre chemin.~
+@23014 = ~Du calme ! Pleurnicher de peur n'aidera personne. Un peu de nerf ou vous allez faire paniquer totu le monde.~
+@23015 = ~Il n'y a pas d'issue : Vous ne le voyez pas ? Je l'ai fui toute ma vie... le masssacre. À chaque fois que je m'arrête quelque part et trouve la paix, il me retrouve ! Et maintenant, c'est comme... comme des vagues qui déferlent dans ma tête ! Je ne peux pas méchapper parce que je suis coincé ici !~
+@23016 = ~Euh, on parle toujours de la Croisade ?~
+@23017 = ~J'entre dans l'eau ! Attendez, non ! Je ne peux pas ! Par les dieux, il n'y a pas d'échappatoire cette fois-ci ! Ils vont percer les murs, ammener le massacre avec eux, nous allons tous mourrir.~
+@23018 = ~Oh, non... Qu'est-ce qu'il m'arrive ? Je ne peux pas arrêter ça.~
+@23019 = ~~
+@23020 = ~Que se passe-t-il ? Que suis-je ?~
+@23041 = ~Un freyeur. Une coagulation d'énergie magique et de peur incontrôlée qui se manifeste dans le monde physique. Il semble émaner d'Elandro... Ou alors Elandro s'est transformé ? Comment il a pu le faire n'est pas clair. Aucun sort n'a été lancé et aucun objet n'a été utilisé pour appeler une telle créature. Elle a semblé s'écouler depuis l'intérieur même de son corps.~
+@23042 = ~Un freyeur est la conséquence inéluctable d'un excès d'énergie associé à la terreur incontrôlée de, disons, d'un fort rempli de singes qui se dissimulent derrière leurs propres excréments pour échapper à une force insurmontable qui cherche à les détruire. Comment Elandro s'est transformé en une telle créature n'est pas clair. Aucun sort n'a été lancé et elle ma semblé s'écouler depuis l'intérieur même de son corps.~
+@23043 = ~La Frayeur
+
+J'ai vaincu le Freyeur qui s'est formé dans la cour.
+
+L'énergie magique qui enveloppait Fort-du-Pont, combinée avec les inquiétudes et les peurs de ses occupants, a fait naitre,d'Elandro un monstre hideux connu sous le nom de « Feyr ». La méthode utilisée pour faire apparaitre ce monstres n'est pas claire. Rien ne laisse à penser que c'était volontaire, et Elendro n'a visiblement pas lancé de sort.~
+@23044 = ~La Frayeur
+
+J'ai vaincu le Freyeur qui s'est formé dans la cour.
+
+L'énergie magique qui enveloppait Fort-du-Pont, combinée avec les inquiétudes et les peurs de ses occupants, a fait naitre,d'Elandro un monstre hideux connu sous le nom de « Feyr ». La méthode utilisée pour faire apparaitre ce monstres n'est pas claire. Rien ne laisse à penser que c'était volontaire, et Elendro n'a visiblement pas lancé de sort.~
+@23045 = ~~
+
+// #240 Precipice of death
+//
+@24001 = ~Vous sentez un afflux de pouvoir sur les créatures mortes-vivantes proches.~
+
+// #330 Wherever You Go There You Are
+//
+// from #@63587 (removed the last sentence)
+@31091  = ~Vous voyez c'te grotte, là ? Les clercs, et Âtrefroid aussi, ils étaient... c'est quoi l'mot ? Catégoriques. Ils étaient catégoriques : personne ne d'vait s'douter de quoi qu'ce soit.~
+@31092  = ~Salut, étranger. Faites gaffe dans le coin, y a p'tête de sales créatures sorties de c'te chute d'eau. Mortes, les créatures. Mais le genre qui veut quand même vous mordre, si vous me suivez.~
+// from #43094 or variants
+@31093  = ~Tenez, prenez ce bouclier. À dire vrai, il ne m'appartient pas. Je pensais en fair emeilleur usage que son propriétaire mais.. ça ne justifie pas de le garder.~
